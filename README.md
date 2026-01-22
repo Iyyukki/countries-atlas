@@ -23,5 +23,5 @@ Assurez-vous d'avoir **Node.js** installé sur votre machine.
 1. **Installation des dépendances** Ouvrez un terminal dans le dossier du projet et exécutez :
    ```bash
    npm install
-
    pour lancer : npm run dev
+  lien : https://github.com/Iyyukki/countries-atlas.git
